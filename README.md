@@ -11,5 +11,6 @@ This Analysis will uncover insight on customer age to target more, locations whe
 ---
 
 ### Executive Summary
+This Project "Davey Super Store and Customer Behavior" this Analysis focus on customer insight on purchase frequency by Age, Revenue by City, Revenue by Product Category, Monthly sales trends, the data includes OrderID, CustomerID, Date, Age, Gender, City, Product Category, Unit Price, Quantity, Discount Amount, Total Amount, Age Bracket, Payment Method etc.
 
 
