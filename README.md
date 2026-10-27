@@ -12,5 +12,6 @@ This Analysis will uncover insight on customer age to target more, locations whe
 
 ### Executive Summary
 This Project "Davey Super Store and Customer Behavior" this Analysis focus on customer insight on purchase frequency by Age, Revenue by City, Revenue by Product Category, Monthly sales trends, the data includes OrderID, CustomerID, Date, Age, Gender, City, Product Category, Unit Price, Quantity, Discount Amount, Total Amount, Age Bracket, Payment Method etc.
+From insights into the Analysis we discovered that the Age between the Bracket of 35-44 made the highest purchase at 52.2k sales while the age from 64 and above made the lowest purchase at 0.1k sales
 
 
