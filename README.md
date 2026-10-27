@@ -8,3 +8,8 @@ An Exploratory analysis carried out on Davey Super store, The Dataset contains 5
 This Project uses Excel for Data cleaning and Standardization, PowerBI for analytics and Visualization.
 This Analysis will uncover insight on customer age to target more, locations where sales management and campaigns need attentions and improvements period of months with good or poor sales performance.
 
+---
+
+### Executive Summary
+
+
