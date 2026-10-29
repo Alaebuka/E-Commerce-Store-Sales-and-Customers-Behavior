@@ -63,5 +63,5 @@ The dataset used for this project is publicly available on [Kaggle]
 ---
 
 Dashboard
+<img width="987" height="562" alt="image" src="https://github.com/user-attachments/assets/4a5a0638-4575-46a0-9b60-e4217eb2b807" />
 
-<img width="989" height="558" alt="github" src="https://github.com/user-attachments/assets/156fa677-9936-4dd0-9ed2-56bf5749d4b1" />
