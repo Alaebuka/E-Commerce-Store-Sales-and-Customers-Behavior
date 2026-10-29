@@ -29,14 +29,20 @@ The dataset used for this project is publicly available on [Kaggle]
 
 ### Data Process
 • Data Standardization and Uniformity
+
 • Checked for missing Values
+
 • Check and Remove duplicates
+
 • DAX for more insights
 
 ---
 
 ### Key Facts
 • Total Customers 5000
+
 • Total Sales 9,594
+
 • Revenue $4.31Million
+
 • Average Rating 3.92
