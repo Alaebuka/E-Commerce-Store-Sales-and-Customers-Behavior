@@ -46,3 +46,16 @@ The dataset used for this project is publicly available on [Kaggle]
 • Revenue $4.31Million
 
 • Average Rating 3.92
+
+---
+
+### Questions Answered
+• Purchased Frequency by Age
+
+• Payment Method
+
+• Revenue by Category
+
+• Revenue by City
+
+• Monthly Sales Trend
