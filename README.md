@@ -59,3 +59,9 @@ The dataset used for this project is publicly available on [Kaggle]
 • Revenue by City
 
 • Monthly Sales Trend
+
+---
+
+Dashboard
+
+<img width="989" height="558" alt="github" src="https://github.com/user-attachments/assets/156fa677-9936-4dd0-9ed2-56bf5749d4b1" />
