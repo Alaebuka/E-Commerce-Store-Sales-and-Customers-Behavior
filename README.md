@@ -162,7 +162,7 @@ Key takeaway: Customers aged 25–44 are the strongest purchasing segments by fr
 
 ---
 
-###Insight 3: Customer Payment Preferences
+### Insight 3: Customer Payment Preferences
 
 <img width="285" height="197" alt="image" src="https://github.com/user-attachments/assets/922dca8e-4839-4dec-a728-84eb64d11f3a" />
 
@@ -210,7 +210,7 @@ Key takeaway: Credit and debit cards are the dominant payment methods, while dig
 
 ---
 
-###Insight 4: Revenue by Product Category
+### Insight 4: Revenue by Product Category
 
 <img width="269" height="193" alt="image" src="https://github.com/user-attachments/assets/aa06edc7-4413-498f-891d-3c4d21740692" />
 
@@ -279,7 +279,7 @@ Key takeaway: Electronics is the store's leading revenue category, while lower-r
 
 ---
 
-###Insight 5: Monthly Sales Trends
+### Insight 5: Monthly Sales Trends
 
 <img width="546" height="191" alt="image" src="https://github.com/user-attachments/assets/0ed5d7fa-e574-4a61-9352-bf02e582ac47" />
 
