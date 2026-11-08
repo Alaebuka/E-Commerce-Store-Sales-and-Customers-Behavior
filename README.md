@@ -107,7 +107,9 @@ Key takeaway: Davey Super Store has an opportunity to turn more of its existing 
 ---
 
 ### Insight 2: Purchase Frequency By Age
+
 <img width="248" height="195" alt="image" src="https://github.com/user-attachments/assets/988a62eb-edf5-4b6f-83f6-f6eb689f5460" />
+
 Key figures from the dashboard:
 
 Age Group	Purchase Frequency
