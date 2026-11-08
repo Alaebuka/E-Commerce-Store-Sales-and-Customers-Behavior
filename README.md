@@ -114,10 +114,15 @@ Key figures from the dashboard:
 
 Age Group	Purchase Frequency
 35–44	5.2K
+
 25–34	5.1K
+
 18–24	3.4K
+
 45–54	2.7K
+
 55–64	0.7K
+
 65+	0.1K
 
 Values are rounded as displayed in the dashboard.
